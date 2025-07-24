@@ -1,4 +1,4 @@
-#5-Linear-Regression-Projects
+# 5-Linear-Regression-Projects
 
 
 This repository contains five independent real-time linear regression projects developed in Python, each demonstrating predictive modeling using distinct datasets. These projects utilize the scikit-learn library for linear regression and feature comprehensive data visualization, preprocessing, and evaluation components.
