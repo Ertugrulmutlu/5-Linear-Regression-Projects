@@ -1,4 +1,10 @@
-# 5-Linear-Regression-Projects
+# Real-time Linear Regression Projects
+
+![Python](https://img.shields.io/badge/python-v3.8+-blue.svg)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-v1.0+-orange.svg)
+![NumPy](https://img.shields.io/badge/numpy-v1.19+-yellow.svg)
+![Pandas](https://img.shields.io/badge/pandas-v1.1+-lightgrey.svg)
+![Matplotlib](https://img.shields.io/badge/matplotlib-v3.3+-brightgreen.svg)
 
 
 This repository contains five independent real-time linear regression projects developed in Python, each demonstrating predictive modeling using distinct datasets. These projects utilize the scikit-learn library for linear regression and feature comprehensive data visualization, preprocessing, and evaluation components.
@@ -62,7 +68,7 @@ Replace `Project_X_name.py` with the specific project's Python filename.
 Before running the scripts, ensure the required libraries are installed:
 
 ```bash
-pip install pandas numpy matplotlib scikit-learn
+pip install -r requirements.txt
 ```
 
 ## Data Availability
