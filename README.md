@@ -1,4 +1,4 @@
-# Real-time Linear Regression Projects
+# 5 Linear Regression Projects
 
 ![Python](https://img.shields.io/badge/python-v3.8+-blue.svg)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-v1.0+-orange.svg)
